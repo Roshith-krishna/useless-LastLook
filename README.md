@@ -1,6 +1,6 @@
 # 😈 Useless Detector 5000
 
-The **Useless Detector 5000** is an advanced (and by advanced, I mean *extremely petty*) AI-based facial expression and direction monitor.  
+The is an advanced (and by advanced, I mean *extremely petty*) AI-based facial expression and direction monitor.  
 If you look away, smile, frown, or basically exist in the wrong mood... it will shut down your PC.  
 No questions asked. No second chances. No mercy.  
 
@@ -20,4 +20,5 @@ No questions asked. No second chances. No mercy.
 - If you enable the Easter Egg, you are basically volunteering for chaos.
 
 ---
+
 
