@@ -53,8 +53,7 @@ No warnings. No mercy. No Ctrl+Z.
 #### Installation
 
 ```bash
-git clone https://github.com/<your-username>/useless-detector-5000.git
-cd useless-detector-5000
+git clone https://github.com/Roshith-krishna/useless-LastLook.git
 pip install -r requirements.txt
 ```
 
@@ -82,5 +81,6 @@ https://drive.google.com/file/d/1tVFlHVT_2bCP9iZm5n_06XdkxB0OUw4l/view?usp=drive
 *A live execution of justice upon an unsuspecting victim.*
 
 ---
+
 
 
