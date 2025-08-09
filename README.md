@@ -63,7 +63,7 @@ pip install -r requirements.txt
 python face.py
 ```
 
-> Default mode is real shutdown. comment the shutdown line if you don't want chaos.
+> Default mode is DEBUG (no real shutdown). Uncomment the shutdown line if you want chaos.
 
 ---
 
@@ -81,6 +81,7 @@ https://drive.google.com/file/d/1tVFlHVT_2bCP9iZm5n_06XdkxB0OUw4l/view?usp=drive
 *A live execution of justice upon an unsuspecting victim.*
 
 ---
+
 
 
 
