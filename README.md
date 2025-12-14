@@ -1,13 +1,6 @@
 
 # Focus or Death
 
-### Team Name: **Face Focus**
-
-### Team Members
-
-* **Team Lead:** Roshith Krishna – Collage of Engineering Vadakara
-* **Member 2:** Rishnu lal - Collage of Engineering Vadakara
-  
 
 ### Project Description
 
@@ -67,20 +60,8 @@ python face.py
 
 ---
 
-## Project Documentation
 
-**For Software:**
 
----
-
-## Project Demo
-
-### Video
-
-https://drive.google.com/file/d/1tVFlHVT_2bCP9iZm5n_06XdkxB0OUw4l/view?usp=drive_link
-*A live execution of justice upon an unsuspecting victim.*
-
----
 
 
 
